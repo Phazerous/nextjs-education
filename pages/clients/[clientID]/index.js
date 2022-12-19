@@ -6,8 +6,8 @@ export default function Client() {
   function startProjectHandler() {
     console.log(router.query.clientID)
     router.push({
-      pathname: `[clientID]/projectA`,
-      query: { clientID: router.query.clientID.toString() }
+      pathname: `/clients/[clientID]/projectA`,
+      query: { clientID: router.query.clientID }
     })
   }
 
