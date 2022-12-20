@@ -1,0 +1,7 @@
+{
+  "products": [
+    {"id": "p1", "title": "iPhone 5", "description": "Great iPhone 5"},
+    {"id": "p2", "title": "iPhone 6", "description": "Excellent iPhone 6"},
+    {"id": "p3", "title": "iPhone 13", "description": "Magician iPhone 13"}
+  ]
+}
